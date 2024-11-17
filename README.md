@@ -1,5 +1,5 @@
 Ovaj projekt se sastoji od dva alata :
-  1. usermgmt - Alat za upravljanje korisničkim imenma i lozinkama (dodavanje, izmjena, brisanje, forcepass)
+  1. usermgmt - Alat za upravljanje korisničkim imenima i lozinkama (dodavanje, izmjena, brisanje, forcepass)
   2. login - Alat za prijavu korisnika u sustav
 
 
