@@ -60,7 +60,7 @@ for argument in argumenti :
         else :
           with open(datoteka, "a") as file :
             file.write(f"{korisnickoImeAdd}:{hashedPassword}:{forceChange}\n")
-          print(f"User {korisnickoIme} successfuly added.")
+          print(f"User {korisnickoIme} successfully added.")
 
       else :
         print("Passwords must contain at least 8 characters, including uppercase and lowercase letters, a number, and a special character.")
